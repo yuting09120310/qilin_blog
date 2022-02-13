@@ -1,0 +1,11 @@
+@media (min-width:1000px), print{
+    img{
+        height: 379px;
+    }
+    article p{
+        height: 305px;
+    }
+    h2{
+        height: 92px;
+    }
+}
